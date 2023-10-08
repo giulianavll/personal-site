@@ -9,14 +9,14 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-es:
-  languageCode: es
-  contentDir: content/es
-  title: Julissa Villanueva 
+#es:
+#  languageCode: es
+#  contentDir: content/es
+#  title: Julissa Villanueva 
 #  params:
-    description: Portafolio de Julissa
-  menu:
-    main:
-      - name: Julissa
-        url: '#sobre'
-        weight: 1
+#    description: Portafolio de Julissa
+#  menu:
+#    main:
+#      - name: Julissa
+#        url: '#sobre'
+#        weight: 1
