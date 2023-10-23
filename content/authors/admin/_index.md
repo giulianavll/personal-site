@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a PhD. in Computer Science, I have experience working on academic and applied projects in the areas of  Machine learning and Natural Language Processing.
 
 #interests:
 #- Artificial Intelligence
