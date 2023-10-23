@@ -20,22 +20,22 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a PhD. in Computer Science, I have experience working on academic and applied projects in the areas of  Machine learning and Natural Language Processing.
 
-interests:
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
+#interests:
+#- Artificial Intelligence
+#- Machine Learning
+#- Natural Language Processing
 
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: University of Sao Paulo
-    year: 2023
-  - course: Mg in Computer Science
-    institution: University of Sao Paulo
-    year: 2017
-  - course: BSc in Systems Engineering
-    institution: University of San Agustin
-    year: 2013
+#education:
+#  courses:
+#  - course: PhD in Computer Science
+#    institution: University of Sao Paulo
+#    year: 2023
+#  - course: Mg in Computer Science
+#    institution: University of Sao Paulo
+#    year: 2017
+#  - course: BSc in Systems Engineering
+#    institution: University of San Agustin
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
