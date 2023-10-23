@@ -66,8 +66,6 @@ social:
 #email: "julissavillanuevallerena@gmail.com"
 ---
 
-Julissa Villanueva is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Julissa Villanueva is a Ph.D. in Computer Science. She completed her Master and PhD studies at the Laboratory of Logics, Artificial Intelligence and Formal Methods (LIAMF) of the Computer Science Department of IME-USP, where she worked on projects related to probabilistic models and robust analysis. She has experience working on academic and applied projects in the areas of machine learning and natural language processing.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
