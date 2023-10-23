@@ -48,13 +48,13 @@ experience:
 
   - title:  Mg in Computer Science
     company: University of Sao Paulo
-    company_url: https://www5.usp.br/
+    company_url: https://teses.usp.br/teses/disponiveis/45/45134/tde-08122017-100124/pt-br.php
     company_logo: ''
     location: Brazil
     date_start: '2015-08-08'
     date_end: '2017-09-20'
     description: |2-
-        * My dissertation was on (Multi-Label classification based on sum-product networks)[https://teses.usp.br/teses/disponiveis/45/45134/tde-08122017-100124/pt-br.php]
+        * My dissertation was on Multi-Label classification based on sum-product networks
 
   - title: Bachelor in Systems Engineering
     company: University of San Agustin

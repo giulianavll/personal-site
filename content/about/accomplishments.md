@@ -26,6 +26,7 @@ item:
     - title: Tractable classification with non-ignorable missing data using Generative Random Forests
       organization: Proceedings of the Tenth Symposium on Knowledge Discovery, Mining and Learning
       date_start: 2022
+      
 
     - title: Cautious Classification with Data Missing Not at Random using Generative Random Forests
       organization:  Proceedings of the Sixteenth European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
