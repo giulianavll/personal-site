@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Brazil
-    date_start: Ago 2023
-    date_end:  Sep 2023
+    date_start: '2023-08-05'
+    date_end:  '2023-10-10'
     description: |2-
         Legal documents review with GPT API.
         * Data analysis.
@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Brazil
-    date_start: Nov 2022
-    date_end: Jul 2023
+    date_start: '2022-11-05'
+    date_end: '2023-07-20'
     description: |2-
         Development of Natural language Processing system (Classification of clinical cases).
         * Data visualization.
@@ -54,8 +54,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Brazil
-    date_start: Dec 2020
-    date_end: May 2022
+    date_start: '2020-12-08'
+    date_end: '2022-05-15'
     description: |2-
         Teaching online courses :
         * Introduction to Python.
@@ -69,8 +69,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Brazil
-    date_start: Mar 2018
-    date_end: Jul 2020
+    date_start: '2018-03-15'
+    date_end: '2020-07-25'
     description: |2-
         Teaching Assistant on undergraduate courses :
         * Artificial Intelligence.
@@ -83,11 +83,11 @@ experience:
     company_url: ''
     company_logo: ''
     location: Peru
-    date_start: Mar 2014
-    date_end: May 2015
+    date_start: '2014-03-14'
+    date_end: '2015-05-29'
     description: Development and testing of bank systems.
     * Cobol
-    * Visual Basic
+    * Visual
 
 design:
   columns: '1'
