@@ -22,28 +22,72 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Machine Learning Programmer , FREELANCE,
+    company: Freelance
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: ''
+    location: Brazil
+    date_start: Ago 2023
+    date_end:  Sep 2023
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Legal documents review with GPT API.
+        * Data analysis.
+        * Question answering with Embeddings.
+        * Text generation with GPT 3.5
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Scientist - Technological and Industrial Development (B)
+    company: TELESSAÚDERS
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Brazil
+    date_start: Nov 2022
+    date_end: Jul 2023
+    description: |2-
+        Development of Natural language Processing system (Classification of clinical cases).
+        * Data visualization.
+        * Data analysis.
+        * Deep Transformer models for classification (BERT).
+        * Measuring predictive uncertainty.
+
+ - title: Teacher
+    company: DATA SCIENCE RESEARCH PERÚ
+    company_url: ''
+    company_logo: ''
+    location: Brazil
+    date_start: Dec 2020
+    date_end: May 2022
+    description: |2-
+        Teaching online courses :
+        * Introduction to Python.
+        * Introduction to Statistics.
+        * Machine learning.
+        * Mathematics for Machine Learning.
+
+
+  - title: Teaching Assistant
+    company: University of Sao Paulo
+    company_url: ''
+    company_logo: ''
+    location: Brazil
+    date_start: Mar 2018
+    date_end: Jul 2020
+    description: |2-
+        Teaching Assistant on undergraduate courses :
+        * Artificial Intelligence.
+        * Programming Languages.
+        * Introduction to Computer Science.
+
+
+  - title: Trainee
+    company: TATA CONSULTANCY SERVICES
+    company_url: ''
+    company_logo: ''
+    location: Peru
+    date_start: Mar 2014
+    date_end: May 2015
+    description: Development and testing of bank systems.
+    * Cobol
+    * Visual Basic
 
 design:
   columns: '1'
