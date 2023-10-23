@@ -55,8 +55,8 @@ experience:
 
   - title:  Mg in Computer Science
     company: University of Sao Paulo
-    company_url: ''
-    company_logo: https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/usp-logo-eps.jpg
+    company_url: https://www5.usp.br/
+    company_logo: ''
     location: Brazil
     date_start: '2015-08-08'
     date_end: '2017-09-20'
