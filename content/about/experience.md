@@ -30,10 +30,10 @@ experience:
     date_start: '2023-08-05'
     date_end:  '2023-10-10'
     description: |2-
-        Legal documents review with GPT API.
-        * Data analysis.
-        * Question answering with Embeddings.
-        * Text generation with GPT 3.5
+    Legal documents review with GPT API.
+    * Data analysis.
+    * Question answering with Embeddings.
+    * Text generation with GPT 3.5
 
   - title: Data Scientist - Technological and Industrial Development (B)
     company: TELESSAUDERS
@@ -43,11 +43,11 @@ experience:
     date_start: '2022-11-05'
     date_end: '2023-07-20'
     description: |2-
-        Development of Natural language Processing system (Classification of clinical cases).
-        * Data visualization.
-        * Data analysis.
-        * Deep Transformer models for classification (BERT).
-        * Measuring predictive uncertainty.
+    Development of Natural language Processing system (Classification of clinical cases).
+    * Data visualization.
+    * Data analysis.
+    * Deep Transformer models for classification (BERT).
+    * Measuring predictive uncertainty.
 
  - title: Teacher
     company: DATA SCIENCE RESEARCH PERU
@@ -57,11 +57,11 @@ experience:
     date_start: '2020-12-08'
     date_end: '2022-05-15'
     description: |2-
-        Teaching online courses :
-        * Introduction to Python.
-        * Introduction to Statistics.
-        * Machine learning.
-        * Mathematics for Machine Learning.
+    Teaching online courses :
+    * Introduction to Python.
+    * Introduction to Statistics.
+    * Machine learning.
+    * Mathematics for Machine Learning.
 
 
   - title: Teaching Assistant
@@ -72,10 +72,10 @@ experience:
     date_start: '2018-03-15'
     date_end: '2020-07-25'
     description: |2-
-        Teaching Assistant on undergraduate courses :
-        * Artificial Intelligence.
-        * Programming Languages.
-        * Introduction to Computer Science.
+    Teaching Assistant on undergraduate courses :
+    * Artificial Intelligence.
+    * Programming Languages.
+    * Introduction to Computer Science.
 
 
   - title: Trainee
@@ -85,7 +85,8 @@ experience:
     location: Peru
     date_start: '2014-03-14'
     date_end: '2015-05-29'
-    description: Development and testing of bank systems.
+    description: |2-
+    Development and testing of bank systems.
     * Cobol
     * Visual
 
