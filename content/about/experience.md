@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Machine Learning Developer
     company: Freelance
-    company_url: ''
-    company_logo: ''
+    #company_url: ''
+    #company_logo: ''
     location: Brazil
     date_start: '2023-08-05'
     date_end:  '2023-10-10'
@@ -37,8 +37,8 @@ experience:
 
   - title: Data Scientist - Technological and Industrial Development (B)
     company: TELESSAÚDERS
-    company_url: ''
-    company_logo: ''
+    #company_url: ''
+    #company_logo: ''
     location: Brazil
     date_start: '2022-11-05'
     date_end: '2023-07-20'
@@ -51,8 +51,8 @@ experience:
 
  - title: Teacher
     company: DATA SCIENCE RESEARCH PERÚ
-    company_url: ''
-    company_logo: ''
+    #company_url: ''
+    #company_logo: ''
     location: Brazil
     date_start: '2020-12-08'
     date_end: '2022-05-15'
@@ -66,8 +66,8 @@ experience:
 
   - title: Teaching Assistant
     company: University of Sao Paulo
-    company_url: ''
-    company_logo: ''
+    #company_url: ''
+    #company_logo: ''
     location: Brazil
     date_start: '2018-03-15'
     date_end: '2020-07-25'
@@ -80,8 +80,8 @@ experience:
 
   - title: Trainee
     company: TATA CONSULTANCY SERVICES
-    company_url: ''
-    company_logo: ''
+    #company_url: ''
+    #company_logo: ''
     location: Peru
     date_start: '2014-03-14'
     date_end: '2015-05-29'
