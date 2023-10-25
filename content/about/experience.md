@@ -58,6 +58,7 @@ experience:
     date_end: '2022-05-15'
     description: |2-
               Teaching online courses:
+
               * Introduction to Python.
               * Introduction to Statistics.
               * Machine learning.
@@ -71,6 +72,7 @@ experience:
     date_end: '2020-07-25'
     description: |2-
               Teaching Assistant on undergraduate courses:
+
               * Artificial Intelligence.
               * Programming Languages.
               * Introduction to Computer Science.
@@ -82,9 +84,10 @@ experience:
     date_start: '2014-03-14'
     date_end: '2015-05-29'
     description: |2-
-        Development and testing of bank systems:
-        * Cobol
-        * Visual
+            Development and testing of bank systems:
+            
+            * Cobol
+            * Visual
 
 design:
   columns: '1'
