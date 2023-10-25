@@ -30,10 +30,11 @@ experience:
     date_start: '2023-08-05'
     date_end:  '2023-10-10'
     description: |2-
-    * Legal documents review with GPT API.
-    * Data analysis.
-    * Question answering with Embeddings.
-    * Text generation with GPT 3.5
+              Legal documents review with GPT API:
+
+              * Data analysis
+              * Question answering with Embeddings
+              * Text generation with GPT 3.5
 
   - title: Data Scientist - Technological and Industrial Development (B)
     company: TELESSAUDERS
