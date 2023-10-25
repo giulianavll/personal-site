@@ -35,7 +35,6 @@ experience:
               * Data analysis
               * Question answering with Embeddings
               * Text generation with GPT 3.5
-
   - title: Data Scientist - Technological and Industrial Development (B)
     company: TELESSAUDERS
     #company_url: ''
@@ -50,7 +49,6 @@ experience:
               * Data analysis.
               * Deep Transformer models for classification (BERT).
               * Measuring predictive uncertainty.
-
  - title: Teacher
     company: DATA SCIENCE RESEARCH PERU
     #company_url: ''
@@ -64,8 +62,6 @@ experience:
               * Introduction to Statistics.
               * Machine learning.
               * Mathematics for Machine Learning.
-
-
   - title: Teaching Assistant
     company: University of Sao Paulo
     #company_url: ''
@@ -78,8 +74,6 @@ experience:
               * Artificial Intelligence.
               * Programming Languages.
               * Introduction to Computer Science.
-
-
   - title: Trainee
     company: TATA CONSULTANCY SERVICES
     #company_url: ''
