@@ -36,7 +36,7 @@ experience:
         * Text generation with GPT 3.5
 
   - title: Data Scientist - Technological and Industrial Development (B)
-    company: TELESSAÚDERS
+    company: TELESSAUDERS
     #company_url: ''
     #company_logo: ''
     location: Brazil
