@@ -50,7 +50,7 @@ experience:
         * Measuring predictive uncertainty.
 
  - title: Teacher
-    company: DATA SCIENCE RESEARCH PERÚ
+    company: DATA SCIENCE RESEARCH PERU
     #company_url: ''
     #company_logo: ''
     location: Brazil
