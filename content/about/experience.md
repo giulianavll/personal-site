@@ -44,11 +44,12 @@ experience:
     date_start: '2022-11-05'
     date_end: '2023-07-20'
     description: |2-
-    * Development of Natural language Processing system (Classification of clinical cases).
-    * Data visualization.
-    * Data analysis.
-    * Deep Transformer models for classification (BERT).
-    * Measuring predictive uncertainty.
+              Development of Natural language Processing system (Classification of clinical cases):
+
+              * Data visualization.
+              * Data analysis.
+              * Deep Transformer models for classification (BERT).
+              * Measuring predictive uncertainty.
 
  - title: Teacher
     company: DATA SCIENCE RESEARCH PERU
@@ -58,11 +59,11 @@ experience:
     date_start: '2020-12-08'
     date_end: '2022-05-15'
     description: |2-
-    * Teaching online courses
-    * Introduction to Python.
-    * Introduction to Statistics.
-    * Machine learning.
-    * Mathematics for Machine Learning.
+              Teaching online courses:
+              * Introduction to Python.
+              * Introduction to Statistics.
+              * Machine learning.
+              * Mathematics for Machine Learning.
 
 
   - title: Teaching Assistant
@@ -73,10 +74,10 @@ experience:
     date_start: '2018-03-15'
     date_end: '2020-07-25'
     description: |2-
-    * Teaching Assistant on undergraduate courses
-    * Artificial Intelligence.
-    * Programming Languages.
-    * Introduction to Computer Science.
+              Teaching Assistant on undergraduate courses:
+              * Artificial Intelligence.
+              * Programming Languages.
+              * Introduction to Computer Science.
 
 
   - title: Trainee
@@ -87,9 +88,9 @@ experience:
     date_start: '2014-03-14'
     date_end: '2015-05-29'
     description: |2-
-    * Development and testing of bank systems.
-    * Cobol
-    * Visual
+        Development and testing of bank systems:
+        * Cobol
+        * Visual
 
 design:
   columns: '1'
