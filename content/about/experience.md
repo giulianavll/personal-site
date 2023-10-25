@@ -30,7 +30,7 @@ experience:
     date_start: '2023-08-05'
     date_end:  '2023-10-10'
     description: |2-
-    Legal documents review with GPT API.
+    * Legal documents review with GPT API.
     * Data analysis.
     * Question answering with Embeddings.
     * Text generation with GPT 3.5
@@ -43,7 +43,7 @@ experience:
     date_start: '2022-11-05'
     date_end: '2023-07-20'
     description: |2-
-    Development of Natural language Processing system (Classification of clinical cases).
+    * Development of Natural language Processing system (Classification of clinical cases).
     * Data visualization.
     * Data analysis.
     * Deep Transformer models for classification (BERT).
@@ -57,7 +57,7 @@ experience:
     date_start: '2020-12-08'
     date_end: '2022-05-15'
     description: |2-
-    Teaching online courses
+    * Teaching online courses
     * Introduction to Python.
     * Introduction to Statistics.
     * Machine learning.
@@ -72,7 +72,7 @@ experience:
     date_start: '2018-03-15'
     date_end: '2020-07-25'
     description: |2-
-    Teaching Assistant on undergraduate courses
+    * Teaching Assistant on undergraduate courses
     * Artificial Intelligence.
     * Programming Languages.
     * Introduction to Computer Science.
@@ -86,7 +86,7 @@ experience:
     date_start: '2014-03-14'
     date_end: '2015-05-29'
     description: |2-
-    Development and testing of bank systems.
+    * Development and testing of bank systems.
     * Cobol
     * Visual
 
