@@ -57,7 +57,7 @@ experience:
     date_start: '2020-12-08'
     date_end: '2022-05-15'
     description: |2-
-    Teaching online courses :
+    Teaching online courses
     * Introduction to Python.
     * Introduction to Statistics.
     * Machine learning.
@@ -72,7 +72,7 @@ experience:
     date_start: '2018-03-15'
     date_end: '2020-07-25'
     description: |2-
-    Teaching Assistant on undergraduate courses :
+    Teaching Assistant on undergraduate courses
     * Artificial Intelligence.
     * Programming Languages.
     * Introduction to Computer Science.
