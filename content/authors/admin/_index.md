@@ -44,7 +44,9 @@ bio: I'm a PhD. in Computer Science, I have experience working on academic and a
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:julissagvll@gmail.com"
+    link: "#contact"
+    #link: "mailto:julissag.v.ll@gmail.com"
+    
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/wowchemy
