@@ -43,14 +43,7 @@ experience:
     date_end: '2023-07-20'
     description: Classification of clinical cases using BERT (NLP) and Data visualization.
 
-- title: Teacher
-    company: DATA SCIENCE RESEARCH PERU
-    company_url: ''
-    company_logo: org-x
-    location: Peru
-    date_start: '2020-12-01'
-    date_end: '2022-05-20'
-    description: Teaching online courses MAchine learning, Statistics and Python
+
 
 design:
   columns: '1'
