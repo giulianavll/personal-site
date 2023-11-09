@@ -44,7 +44,7 @@ bio: I'm a PhD. in Computer Science, I have experience working on academic and a
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:julissagvll@gmail.com".
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/wowchemy
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "julissagvll@gmail.com"
+# email: "julissagvll@gmail.com"
 ---
 
 Julissa Villanueva is a Ph.D. in Computer Science. She completed her Master and PhD studies at the Laboratory of Logics, Artificial Intelligence and Formal Methods (LIAMF) of the Computer Science Department of IME-USP, where she worked on projects related to probabilistic models and robust analysis. She has experience working on academic and applied projects in the areas of machine learning and natural language processing.
